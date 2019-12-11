@@ -532,9 +532,9 @@
 }
 
 .markdown-body blockquote {
-  border-left: .25em solid #dfe2e5;
+  border-left: .3em solid #dfe2e5;
   color: #6a737d;
-  padding: 0 1em;
+  padding: 1em;
 }
 
 .markdown-body blockquote>:first-child {
@@ -568,7 +568,7 @@
   font-weight: 600;
   line-height: 1.25;
   margin-bottom: 16px;
-  margin-top: 2.2em;
+  margin-top: 3em;
 }
 
 .markdown-body h1 {
